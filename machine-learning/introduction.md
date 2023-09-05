@@ -14,6 +14,7 @@ Imagine that data is like the ingredients for a magic recipe that helps computer
 
 There is a famous quote by [_**Daniel Keys Moran**_ ](https://en.wikipedia.org/wiki/Daniel\_Keys\_Moran)
 
-> &#x20;                     You can have data without information,&#x20;
+> &#x20;                    _**You can have data without information,**_&#x20;
 >
-> &#x20;                                                         but you cannot have information without data.
+> &#x20;                                                         _**but you cannot have information without data.**_
+
