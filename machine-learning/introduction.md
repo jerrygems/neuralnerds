@@ -10,8 +10,8 @@ description: An introduction about Machine learning and it's usage
 
 ### Data
 
-Data is the most important part of machine learning and whatever our machine learning model learns whether it's wrong or right it depends on multiple factors and the dataset is one of those factors if the data is not good then our model will give us wrong outputs. The cleanliness of data and information inside it does matter alot.
+Imagine that data is like the ingredients for a magic recipe that helps computers learn. Just like a chef needs good ingredients to make a delicious meal, a computer needs good data to learn correctly. So, if our data isn't clean and right, it's like using bad ingredients in our recipe. And just like how a tasty meal depends on the quality of ingredients, the computer's learning depends on the quality of data. So, making sure our data is clean and filled with good information is super important for our computer to make the right decisions!
 
-there is a famous quote by [_**Daniel Keys Moran**_ ](https://en.wikipedia.org/wiki/Daniel\_Keys\_Moran)
+There is a famous quote by [_**Daniel Keys Moran**_ ](https://en.wikipedia.org/wiki/Daniel\_Keys\_Moran)
 
 > You can have data without information, but you cannot have information without data.
