@@ -18,3 +18,5 @@ There is a famous quote by [_**Daniel Keys Moran**_ ](https://en.wikipedia.org/w
 >
 > &#x20;                                                         _**but you cannot have information without data.**_
 
+And the more data we have, the easier our job becomes to train models&#x20;
+
